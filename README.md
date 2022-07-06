@@ -2,7 +2,7 @@
  
  These 'apps' are very very simple i just wanted to share what i have done. I used PySimpleGui because it was very easy to understand and very beginner friendly. 
  
- I you need api key for using this script these are the sites :
+ I you need api key for using theese scripts these are the sites to get them :
  
 - [chat_api.py]( https://brainshop.ai)
 - [nasa_api.py](https://api.nasa.gov/)
